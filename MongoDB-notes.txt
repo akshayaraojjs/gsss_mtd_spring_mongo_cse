@@ -1,4 +1,4 @@
-MongoDB:
+MongoDB(NoSQL):
 	MongoDB is a NoSQL, document-oriented database that stores data in flexible, JSON-like documents (BSON format). Unlike traditional relational databases (RDBMS), MongoDB doesn't use tables and rows — instead, it uses collections and documents.
 
 Key Features of MongoDB:
